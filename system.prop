@@ -12,6 +12,6 @@ rild.libargs=-d /dev/ttyACM0 -i usb0
 
 ro.com.google.locationfeatures=1
 ro.com.google.networklocation=1
-ro.setupwizard.enable_bypass=1
+ro.setupwizard.enable_bypass=0
 keyguard.no_require_sim=false
 
